@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Navigation from './Navigation';
+import Navigation from './NavigationPage.js';
 import Home from './pages/MyHomePage';
 import About from './pages/AboutMe';
 import Projects from './pages/MyProjects';
