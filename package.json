@@ -35,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinaryBitBytes/ToReactOrToNotReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinaryBitBytes/ToReactOrToNotReact/issues"
+  },
+  "homepage": "https://github.com/BinaryBitBytes/ToReactOrToNotReact#readme"
 }

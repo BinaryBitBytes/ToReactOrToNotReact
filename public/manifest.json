@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MWC-Portfolio",
+  "name": "Porfolio Profile based on React.js",
   "icons": [
     {
       "src": "favicon.ico",
