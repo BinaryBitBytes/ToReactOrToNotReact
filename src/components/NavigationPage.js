@@ -3,7 +3,7 @@ import React from 'react';
 
 // assign variable names
 // object destructuring assignment to select variables from props object
-function StyleNavigation({ thisPage, handlePageChange }) {
+function NavigationPage({ thisPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs" id="StyleNavigation">
       <div id="homePage">
@@ -54,4 +54,4 @@ function StyleNavigation({ thisPage, handlePageChange }) {
   );
 }
 
-export default StyleNavigation;
+export default NavigationPage;
