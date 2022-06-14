@@ -1,9 +1,69 @@
+# To React Or Not React
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
 
 ![react screenshot](https://user-images.githubusercontent.com/94703967/173611705-160a59b1-e6ec-48af-9667-52d3718c26a7.jpg)
 
-# Getting Started with Create React App
+### Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react web portfolio that will host the my portfolio page to inform the reader about me. This will have my contact information, an about me, and a project page.
+
+![MIT](https://img.shields.io/badge/license-MIT-green)
+    [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
+    
+
+------------------
+Table of Contents:
+------------------ 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [Contributions](#contributions)
+
+* [Testing](#testing)
+
+* [License](#license)
+
+* [Questions](#questions)
+
+### Installation
+-----------------
+
+run in the terminal the script: npm run start
+
+### Usage
+----------
+
+you need to npm i to install the dependancies then you must also run npm run start to launch the portfolios magnificent web page.
+
+### Contributions
+
+------------------
+
+Thank you to my instructor, my project 3 team, and the TA's for helping me better understand react.
+
+### Testing
+
+------------
+
+No testing in this other than standard debugging.
+
+### License
+------------
+
+* ![MIT](https://img.shields.io/badge/license-MIT-green)
+    [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
+    
+
+### Questions
+
+-------------
+
+[Github Profile](https://github.com/BinaryBitBytes)  |  To reach me via Email 117mwc117@gmail.com
+
 
 ## Available Scripts
 
