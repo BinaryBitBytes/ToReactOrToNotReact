@@ -11,11 +11,11 @@ function NavigationPage({ thisPage, handlePageChange }) {
           <a
             href="#home"
             onClick={() => handlePageChange('Home')}
-          >
-            Miles Wesely Colòn
+            >
           </a>
         </li>
       </div>
+      <h1> Miles Wesely Colòn </h1>
       
       <div id="StyleNavigation-items">
         <li className="nav-item">

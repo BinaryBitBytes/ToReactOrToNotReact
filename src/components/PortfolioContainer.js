@@ -22,10 +22,9 @@ export default function PortfolioContainer() {
     if (currentPage === 'About') {
       return <About />;
     }
-    // if (currentPage === 'Blog') {
-    //   return <Blog />;
-    // }
+    if (currentPage === 'Contact') {
     return <Contact />;
+    }
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
